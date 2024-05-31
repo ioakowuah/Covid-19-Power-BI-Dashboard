@@ -1,0 +1,51 @@
+Date,Day,Country,City_new,new_case_sex_male,new_case_sex_female,Cases-tested,new_cases,new_deaths,total_cases,Case_manage_isolation,total_deaths,Recovery_cases,Cases_in_population,Current_case_in_Population,Ghana_national,Foreign_national,Contact_tracing,case_of_contact_tracing,Mandatory_quarantine,Total_Mandatory_quarantine,Cases_in_mandatory_quarantine,Discharged(Home_Mgt),Responding_Treatment,Critical_condition,Cases_Travel_History,Cases_No_Travel_History,Enhanced_tracing,Routine_surveillance
+13/03/2020,13,Ghana,,,,,2,,2,2,,,,,,,,,No,,,,,,,,,
+14/03/2020,14,Ghana,,,,,0,,2,2,,,,,,,,,No,,,,,,,,,
+15/03/2020,15,Ghana,,,,,0,,2,2,,,,,,,,,No,,,,,,,,,
+16/03/2020,16,Ghana,,,,,0,,2,2,,,,,,,,,No,,,,,,,,,
+17/03/2020,17,Ghana,,,,,4,,6,6,,,,,,,,,No,,,,,,,,,
+18/03/2020,18,Ghana,,,,,1,,7,7,,,,,,,,,No,,,,,,,,,
+19/03/2020,19,Ghana,,,,,4,,11,11,,,,,,,,,No,,,,,,,,,
+20/03/2020,20,Ghana,Accra,3,2,,5,,16,16,,,,,,,,,No,,,,,,,,,
+21/03/2020,21,Ghana,"Accra, Ashanti",1,2,,3,,19,19,,,,,,,,,No,,,,,,,,,
+22/03/2020,22,Ghana,"Accra, Ashanti",,,315,5,1,24,23,1,,,,17,7,575,1,No,,,,,,,,,
+23/03/2020,23,Ghana,"Accra, Ashanti",,,521,3,1,27,25,2,,,,20,7,598,1,No,,,,,,,,,
+24/03/2020,24,Ghana,"Accra, Ashanti",,,,26,0,53,51,2,,,,46,7,829,1,Yes,1030,,,,,,,,
+25/03/2020,25,Ghana,"Accra, Ashanti",,,,15,0,68,66,2,,30,28,,7,829,,Yes,1030,38,,,,,,,
+26/03/2020,26,Ghana,"Accra, Ashanti",,,,64,1,132,129,3,1,54,51,,7,970,,Yes,1030,78,,,,,,,54
+27/03/2020,27,Ghana,"Accra, Ashanti",,,,5,0,136,133,3,1,58,54,,7,1006,,Yes,1030,78,,,,,,,58
+28/03/2020,28,Ghana,"Accra, Ashanti, Upper West",,,,4,2,141,,5,2,62,55,,,,,Yes,,79,,,,,,,62
+29/03/2020,29,Ghana,"Accra, Ashanti, Upper West, Northern",,,,11,0,152,,5,2,63,56,,,,,Yes,,89,,,,,,,63
+30/03/2020,30,Ghana,"Accra, Ashanti, Upper West, Northern",,,,0,0,152,,5,2,63,56,,,,,Yes,,89,,,,,,,63
+31/03/2020,31,Ghana,"Accra, Ashanti, Upper West, Northern",,,,9,0,161,,5,3,72,,,,1185,,Yes,,89,49,94,,,,,72
+01/04/2020,1,Ghana,"Accra, Ashanti, Upper West, Northern, Eastern",,,,34,0,195,,5,3,106,,,,,,Yes,,89,49,128,,,,,106
+02/04/2020,2,Ghana,"Accra, Ashanti, Upper West, Northern, Eastern",,,,9,0,204,,5,3,115,,,,,,Yes,,89,49,128,,,,,115
+03/04/2020,3,Ghana,"Accra, Ashanti, Upper West, Northern, Eastern, Upper East",,,,1,0,205,,5,3,116,,,,,,Yes,,89,49,136,2,,,,116
+04/04/2020,4,Ghana,"Accra, Ashanti, Upper West, Northern, Eastern, Upper East",,,,9,0,214,,5,3,124,,,,,,Yes,,90,49,145,2,,,,124
+05/04/2020,5,Ghana,"Accra, Ashanti, Upper West, Northern, Eastern, Upper East",,,,0,0,214,,5,3,124,,,,,,Yes,,90,49,145,2,,,,124
+06/04/2020,6,Ghana,"Accra, Ashanti, Upper West, Northern, Eastern, Upper East",,,,,0,287,,5,3,172,,,,,,Yes,,115,49,228,2,,,,161
+07/04/2020,7,Ghana,"Accra, Ashanti, Upper West, Northern, Eastern, Upper East",,,,26,1,313,,6,3,198,,,,,,Yes,,115,49,253,2,,,37,161
+08/04/2020,8,Ghana,"Accra, Ashanti, Upper West, Northern, Eastern, Upper East",,,,0,0,313,,6,3,198,,,,,,Yes,,115,49,253,2,,,37,161
+09/04/2020,9,Ghana,"Accra, Ashanti, Upper West, Northern, Eastern, Upper East, Central",224,154,,65,0,378,,6,4,192,,,,,,Yes,,115,,366,2,133,245,71,192
+10/04/2020,10,Ghana,"Accra, Ashanti, Upper West, Northern, Eastern, Upper East, Central, North East, Western, Volta",236,172,,30,2,408,,8,4,205,,,,,,Yes,,115,,394,2,175,233,88,205
+11/04/2020,11,Ghana,"Accra, Ashanti, Upper West, Northern, Eastern, Upper East, Central, North East",328,238,,158,0,566,,8,4,292,,,,,,Yes,,115,,552,2,189,377,159,292
+12/04/2020,12,Ghana,"Accra, Ashanti, Upper West, Northern, Eastern, Upper East, Central, North East",328,238,,158,0,566,,8,4,292,,,,,,Yes,,115,,552,2,189,377,159,292
+13/04/2020,13,Ghana,"Accra, Ashanti, Upper West, Northern, Eastern, Upper East, Central, North East",375,261,,70,0,636,,8,17,268,,,,,,Yes,,115,,609,2,191,445,253,268
+14/04/2020,14,Ghana,"Accra, Ashanti, Upper West, Northern, Eastern, Upper East, Central, North East",375,261,,70,0,636,,8,17,268,,,,,,Yes,,115,,609,2,191,445,253,268
+15/04/2020,15,Ghana,"Accra, Ashanti, Upper West, Northern, Eastern, Upper East, Central, North East",385,256,,5,0,641,,8,83,268,,,,,,Yes,,115,,548,2,186,455,258,268
+16/04/2020,16,Ghana,"Accra, Ashanti, Upper West, Northern, Eastern, Upper East, Central, North East",385,256,,5,0,641,,8,83,268,,,,,,Yes,,115,,548,2,186,455,258,268
+17/04/2020,17,Ghana,"Accra, Ashanti, Upper West, Northern, Eastern, Upper East, Central, North East",385,256,,5,0,641,,8,83,268,,,,,,Yes,,115,,548,2,186,455,258,268
+18/04/2020,18,Ghana,"Accra, Ashanti, Upper West, Northern, Eastern, Upper East, Central, North East",,,,193,1,834,,9,99,346,,,,,,Yes,,115,,722,4,192,642,373,346
+19/04/2020,19,Ghana,"Accra, Ashanti, Upper West, Northern, Eastern, Upper East, Central, North East",625,417,,208,0,1042,,9,99,383,,,,,,Yes,,115,,930,4,188,854,544,383
+20/04/2020,20,Ghana,"Accra, Ashanti, Upper West, Northern, Eastern, Upper East, Central, North East",625,417,,208,0,1042,,9,99,383,,,,,,Yes,,115,,930,4,188,854,544,383
+21/04/2020,21,Ghana,"Accra, Ashanti, Upper West, Northern, Eastern, Upper East, Central, North East",625,417,,208,0,1042,,9,99,383,,,,,,Yes,,115,,930,4,188,854,544,383
+22/04/2020,22,Ghana,"Accra, Ashanti, Upper West, Northern, Eastern, Upper East, Central, North East,Western North, Oti,Volta, Western",767,512,,237,1,1279,,10,134,1164,,,,,,Yes,,115,,1131,4,,,726,438
+23/04/2020,23,Ghana,"Accra, Ashanti, Upper West, Northern, Eastern, Upper East, Central, North East,Western North, Oti,Volta, Western",767,512,,237,1,1279,,10,134,1164,,,,,,Yes,,115,,1131,4,,,726,438
+24/04/2020,24,Ghana,"Accra, Ashanti, Upper West, Northern, Eastern, Upper East, Central, North East,Western North, Oti,Volta, Western",767,512,,237,1,1279,,10,134,1164,,,,,,Yes,,115,,1131,4,,,726,438
+25/04/2020,25,Ghana,"Accra, Ashanti, Upper West, Northern, Eastern, Upper East, Central, North East,Western North, Oti,Volta, Western",961,589,,271,1,1550,,11,155,1435,,,,,,Yes,,115,,1378,6,248,1302,922,513
+26/04/2020,26,Ghana,"Accra, Ashanti, Upper West, Northern, Eastern, Upper East, Central, North East,Western North, Oti,Volta, Western",961,589,,271,1,1550,,11,155,1435,,,,,,Yes,,115,,1378,6,248,1302,922,513
+27/04/2020,27,Ghana,"Accra, Ashanti, Upper West, Northern, Eastern, Upper East, Central, North East,Western North, Oti,Volta, Western",961,589,,121,5,1671,,16,188,1556,,,,,,Yes,,115,,1461,6,248,1302,1013,543
+28/04/2020,28,Ghana,"Accra, Ashanti, Upper West, Northern, Eastern, Upper East, Central, North East,Western North, Oti,Volta, Western",1286,788,,403,1,2074,,17,212,1959,,,,,,Yes,,115,,1839,6,249,1825,1250,709
+29/04/2020,29,Ghana,"Accra, Ashanti, Upper West, Northern, Eastern, Upper East, Central, North East,Western North, Oti,Volta, Western",1286,788,,403,1,2074,,17,212,1959,,,,,,Yes,,115,,1839,6,249,1825,1250,709
+30/04/2020,30,Ghana,"Accra, Ashanti, Upper West, Northern, Eastern, Upper East, Central, North East,Western North, Oti,Volta, Western",1286,788,,403,1,2074,,17,212,1959,,,,,,Yes,,115,,1839,6,249,1825,1250,709
+01/05/2020,31,Ghana,"Accra, Ashanti, Upper West, Northern, Eastern, Upper East, Central, North East,Western North, Oti,Volta, Western",1286,788,,403,1,2074,,17,212,1959,,,,,,Yes,,115,,1839,6,249,1825,1250,709
